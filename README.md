@@ -10,9 +10,12 @@ Atualmente estou cursando e Desenvolvendo frond-ende para o programa **_FORD <EN
 
 Markdown (linguagem de marcação)
 
-acesse o [Guia básico de Markdown]https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
+acesse o [Guia básico de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+<!-- Esse exemplo acima é o equivalente em HTML a:
+<a href="https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open">Guia básica de Markdown</a>
 
-<!--
+
+<!-- 
 **Carlos-Leandro-medeiros/Carlos-Leandro-medeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
