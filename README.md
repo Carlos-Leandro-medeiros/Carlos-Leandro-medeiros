@@ -10,7 +10,7 @@ Atualmente estou cursando e Desenvolvendo frond-ende para o programa **_FORD <EN
 
 Markdown (linguagem de marcação)
 
-acesse o [Guia básico de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+acesse o [Guia básico de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open) ou pesquise  diretamente no Google em <https://google.com/?q=markdown>
 
 <!-- Esse exemplo acima é o equivalente em HTML a:
   <a href="https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open">Guia básica de Markdown</a>
