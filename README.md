@@ -1,6 +1,6 @@
 # Carlos Leandro Medeiros Sakowicz
 
-Sou estudante do SENAI-SP,profissionalizando n área de TI, tenho 18 anos, sou solteiro,reside com a mãe.
+Sou estudante do SENAI-SP,estou me profissionalizando na área de TI, tenho 18 anos, sou solteiro,reside com a mãe.
 <!--
 **Carlos-Leandro-medeiros/Carlos-Leandro-medeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
