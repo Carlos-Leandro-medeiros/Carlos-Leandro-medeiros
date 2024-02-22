@@ -2,7 +2,8 @@
 
 Sou estudante do **SENAI-SP**,estou me profissionalizando na área de TI, tenho 18 anos, sou solteiro,reside com a mãe.😁👍
 
-Atualmente estou cursando e Desenvolvendo frond-ende para o programa **_FORD <ENTER>_** em parceria com a _Ford motor compary
+Atualmente estou cursando e Desenvolvendo frond-ende para o programa **_FORD <ENTER>_** em parceria com a _Ford motor compary e ford fund.
+
 ## Formação
 
 ### Tecnologias que estou aprendendo:
